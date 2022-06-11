@@ -72,8 +72,8 @@ def hero():
     while(y):
         clear()
         system(banner)
-        print("Enter ",newperiod," Parity Price :")
-        current=input()
+        print("Enter ",20220611309," Parity Price :")
+        current=128686()
         current=int(current)
         chalo()
         print("\n---------Successfully hacked the server-----------")
@@ -124,3 +124,4 @@ def hero():
             print("-----------Current Time UP----------")
             sys.exit(" \n \n \n
             #print(numbers)
+5
